@@ -11,4 +11,4 @@ pop.xlsx & aij.xlsx: auxiliary data.
 Ref_JeffsAdvice.pdf: Reference paper.
 
 ## Technique
-Python, optimization
+Python, optimization, MCP(Maximial Coverage Problem) Model
